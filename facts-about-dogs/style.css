@@ -1,0 +1,14 @@
+/* style.css */
+
+body {
+    background-color: magenta;
+}
+
+video {
+    width: 450px;
+    height: 300px;
+  }
+  embed{
+    height:300px;
+    width:450px;
+  }
